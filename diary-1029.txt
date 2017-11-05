@@ -3,5 +3,5 @@ accumulaion
 1.green hand:a fresh hand
 2.remains:the parts of something that are left
 3.immense:extremely large
-4.giganticextremely big
+4.gigantic:extremely big
 All
